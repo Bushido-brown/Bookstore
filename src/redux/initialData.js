@@ -4,18 +4,18 @@ export default {
   books: [
     {
       id: uuidv4(),
-      title: 'The Hunger Game',
-      author: 'Suzanne Collins',
+      title: 'A Tale of Two Cities',
+      author: 'Charles Dickens',
     },
     {
       id: uuidv4(),
-      title: 'Dune',
-      author: 'Frank Herbert',
+      title: 'And Then There Were None',
+      author: 'Agatha Christie',
     },
     {
       id: uuidv4(),
-      title: 'Capital in the Twenty-First Century',
-      author: 'Suzanne Collins',
+      title: 'The Hobbit',
+      author: 'J.R.R Tolkien',
     },
   ],
 };
