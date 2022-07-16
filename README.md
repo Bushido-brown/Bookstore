@@ -25,7 +25,7 @@ React - Redux Project
 
 Open a terminal or a git bash in the desired directory and run
 
-``git clone https://github.com/ShingiraiBhengesa/react-book-store-app.git``
+``git clone https://github.com/Bushido-brown/Bookstore.git``
 
 - Next you will need a to create  .env file. The .env file contains environment variables for the API configuration. There is a commented .env.example file you can use as a guide to configure your own.
 
@@ -76,11 +76,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Authors
 
-👤 **Shingirai Bhengesa**
+👤 **Tochukwu Orizu**
 
-- GitHub: [@ShingiraiBhengesa](https://github.com/ShingiraiBhengesa)
-- Twitter: [@bhengesa](https://twitter.com/twitterhandle)
-- LinkedIn: [Shingirai Bhengesa](https://www.linkedin.com/in/shingirai-bhengesa-612b09206/)
+- GitHub: [@Bushido-brown](https://github.com/Bushido-brown)
+- Twitter: [@tuzyorizu](https://twitter.com/tuzyorizu)
+- LinkedIn: [tochukwu orizu](https://www.linkedin.com/in/tochukwu-orizu-52187013a/)
 
 
 ## 🤝 Contributing
